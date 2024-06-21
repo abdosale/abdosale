@@ -2,7 +2,7 @@ Hi there, I'm Abdelrahman Mostafa Salem 👋
 About Me
 I am a fresh-graduated from Sadat City University, Faculty of Artificial Intelligence .
 I have finished learning machine learning algorithms, deep learning and Python, and applying some small projects such as classification of images and prediction, and now towards the step of professionalizing the actual application, such as computer vision ,speech recognition ,nlp and cloud computing
-<a> href=http:/ff.com</a>
+<a> href="https://appinventiv.com/blog/ai-in-blockchain/#:~:text=AI%20and%20Blockchain%20%E2%80%93%20A%20Brief%20Introduction,-AI%20is%20revolutionizing&text=Blockchain%20is%20a%20decentralized%20and,%2C%20supply%20chain%2C%20and%20healthcare."</a>
 Skills
 Languages: c++ , Python
 Frameworks/Libraries: pytorch , open cv , pyspark , scikit-learn , nltk , spacy , tensor-flow , keras , numpy , pandas , matplotlib
