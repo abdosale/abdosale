@@ -2,7 +2,7 @@ Hi there, I'm Abdelrahman Mostafa Salem 👋
 About Me
 I am a fresh-graduated from Sadat City University, Faculty of Artificial Intelligence .
 I have finished learning machine learning algorithms, deep learning and Python, and applying some small projects such as classification of images and prediction, and now towards the step of professionalizing the actual application, such as computer vision ,speech recognition ,nlp and cloud computing
-<b>assa`</b>
+<a> href=http:/ff.com</a>
 Skills
 Languages: c++ , Python
 Frameworks/Libraries: pytorch , open cv , pyspark , scikit-learn , nltk , spacy , tensor-flow , keras , numpy , pandas , matplotlib
